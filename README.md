@@ -14,8 +14,8 @@ Archivo ".CSV", que contenga cinco (5) columnas:
 
 Cuando se va a ejecutar, se necesita: 
 
-Cuanto cuesta el proceso sin tiempos muertos 
-Cantidad de días (int) y la cantidad de horas (str) que dura el proceso sin tiempos muertos, para crear un timeStamp
+Cuanto cuesta el proceso sin tiempos muertos.
+Cantidad de días (int) y la cantidad de horas (str) que dura el proceso sin tiempos muertos, para crear un timeStamp.
 
 
 #### Ejemplo
