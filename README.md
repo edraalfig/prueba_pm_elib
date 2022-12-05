@@ -20,7 +20,7 @@ Se crean las variables de la siguiente manera
 dias = 4
 horas "00:30:14"
 ```
-Para que la libreria lo pueda interpretar como timeStamp
+Para que la libreria lo pueda interpretar como TimeDelta
 ```
 4 days 00:30:14
 ```
