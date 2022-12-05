@@ -1,0 +1,30 @@
+lote,action,resource,datetime,endaction
+lote 1,trazado,Operario 1,2022-07-04  08:10:35,2022-07-04  08:12:40
+lote 2,trazado,Operario 2,2022-07-04  08:10:38,2022-07-04  08:12:43
+lote 1,corte,Operario 1,2022-07-04  08:12:45,2022-07-04  08:17:57
+lote 2,corte,Operario 2,2022-07-04  08:12:48,2022-07-04  08:18:00
+lote 1,ensamble,Operario 1,2022-07-04  08:18:20,2022-07-04  08:23:20
+lote 2,ensamble,Operario 2,2022-07-04  08:18:23,2022-07-04  08:23:23
+lote 1,deshebrado,Operario 3,2022-07-04  08:24:30,2022-07-04  08:34:40
+lote 2,deshebrado,Operario 3,2022-07-04  08:34:50,2022-07-04  08:45:00
+lote 1,lavado y secado,Operario 4,2022-07-04  08:50:00,2022-07-04  11:15:16
+lote 2,lavado y secado,Operario 5,2022-07-04  08:50:00,2022-07-04  11:15:16
+lote 1,empaquetado,Operario 6,2022-07-04  11:17:01,2022-07-04  11:18:11
+lote 2,empaquetado,Operario 6,2022-07-04  11:18:24,2022-07-04  11:19:34
+lote 4,trazado,Operario 2,2022-07-04  13:57:01,2022-07-04  13:59:06
+lote 4,trazado,Operario 2,2022-07-04  14:00:01,2022-07-04  14:02:06
+lote 3,trazado,Operario 1,2022-07-04  14:00:03,2022-07-04  14:02:15
+lote 4,corte,Operario 2,2022-07-04  14:02:13,2022-07-04  14:07:27
+lote 3,corte,Operario 1,2022-07-04  14:02:22,2022-07-04  14:07:30
+lote 3,ensamble,Operario 1,2022-07-04  14:07:48,2022-07-04  14:12:52
+lote 4,ensamble,Operario 2,2022-07-04  14:07:51,2022-07-04  14:12:55
+lote 5,trazado,Operario 1,2022-07-04  14:13:00,2022-07-04  14:15:02
+lote 3,deshebrado,Operario 3,2022-07-04  14:13:24,2022-07-04  14:23:35
+lote 5,corte,Operario 1,2022-07-04  14:15:10,2022-07-04  14:25:10
+lote 5,ensamble,Operario 1,2022-07-04  14:20:25,2022-07-04  14:25:27
+lote 4,deshebrado,Operario 3,2022-07-04  14:23:45,2022-07-04  14:33:55
+lote 3,lavado y secado,Operario 5,2022-07-04  14:27:00,2022-07-04  16:52:15
+lote 5,lavado y secado,Operario 4,2022-07-04  14:27:00,2022-07-04  16:52:15
+lote 4,empaquetado,Operario 6,2022-07-04  14:35:53,2022-07-04  14:37:05
+lote 5,empaquetado,Operario 6,2022-07-04  16:53:30,2022-07-04  16:54:40
+lote 3,empaquetado,Operario 6,2022-07-04  16:54:55,2022-07-04  16:56:05
