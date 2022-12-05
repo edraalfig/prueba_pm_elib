@@ -35,7 +35,7 @@ Para que la libreria lo pueda interpretar como timeStamp
 -- Sugerencias que podrían ayudar a optimizar el proceso para ejecuciones futuras
 
 ### Ejemplo
-![](https://github.com/edraalfig/prueba/blob/main/IMG_20220606_100744.jpg)
+![](https://github.com/edraalfig/prueba/blob/main/Captura.PNG?raw=true)
 
 ## License
 MIT
