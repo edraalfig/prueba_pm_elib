@@ -34,23 +34,8 @@ Para que la libreria lo pueda interpretar como timeStamp
 -- Resumen de cuellos de botella
 -- Sugerencias que podrían ayudar a optimizar el proceso para ejecuciones futuras
 
-### Ejemplo
 
-Un proceso dura 35 minutos y cuesta 150000
-
-```
-from PM_Elib import process_file as pf #Función Principal
-
-fn="ruta del archivo .CSV" 
-
-days=0 
-hours="00:35:00"
-cost=150000
-
-res = pf(fn,days,hours,cost)
-```
+Obtendriamos un diccionario de la siguiente manera
 
 ![](https://github.com/edraalfig/prueba/blob/main/Captura.PNG?raw=true)
 
-## License
-MIT
