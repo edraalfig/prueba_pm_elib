@@ -11,8 +11,12 @@ Archivo ".CSV", que contenga cinco (5) columnas:
 - Recurso utilizado (Cabe resaltar que al ser esta una primera versión, por el momento solo se acepta un recurso por actividad)
 - Hora de Inicio de Actividad 
 - Hora de fin de la Actividad
-Cantidad de días (int) y la cantidad de horas (str) que dura el proceso sin tiempos muertos, para crear un timeStamp
+
+Cuando se va a ejecutar, se necesita: 
+
 Cuanto cuesta el proceso sin tiempos muertos 
+Cantidad de días (int) y la cantidad de horas (str) que dura el proceso sin tiempos muertos, para crear un timeStamp
+
 
 #### Ejemplo
 Se crean las variables de la siguiente manera
